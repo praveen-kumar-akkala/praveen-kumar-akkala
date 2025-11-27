@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praveen-kumar-akkala
-- 👀 I’m interested in Cloud technology
-- 🌱 I’m currently learning amazon web services, google cloud, microsoft azure cloud
-- 💞️ I’m looking to collaborate on Data science and cloud services
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analysis, Data Science, Gen AI, Machine Learning, Python, SQL
+- 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me Email: Praveenkumar.akkala@outlook.com, Phone: +91-964-211-9840
 
 <!---
